@@ -1,0 +1,86 @@
+body{
+	font-family: arial; 
+	background: #663399; 
+	color: #FFFFFF; // cor da fonte
+	margin: 0;
+}
+
+#principal2{
+	width: 130%;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+}
+
+
+#tecnologia{
+	display: inline-block;
+	alignment-baseline: center;
+	border-color: #FFFFFF;
+	border-color: 2px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 20px;
+	margin-left: 350px;
+}
+
+
+.fotoefrase{
+
+	background: #FFFFFF;
+	color: #663399;
+}
+
+#aline{
+
+	width: 15%; 
+	float: right; 
+	margin-left: 20px;
+
+}
+
+#citacao {
+	font-size: 20px;
+	text-align: right;
+
+}
+
+.nossoscursos{
+	font-size: 22px;
+}
+
+
+
+h2{
+	margin-left: 15px;
+}
+
+ul{
+
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 150px; 
+	font-size: 16px;
+
+}
+
+.itenscursos {
+
+ font-style: italic;
+ font-size: 16px;
+
+}
+
+a{
+	text-decoration: none;
+	color: #C3DEE9;
+}
+
+
